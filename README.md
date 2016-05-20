@@ -298,10 +298,12 @@ public class LoginController {
 **********************
 ### References   
 
-* [Apache Tiles][0]
+* [Apache Tiles][0] 
+* [UaiContacts Project][1]
 
 
 [0]: https://tiles.apache.org/framework/tutorial/basic/index.html
+[1]: https://github.com/fabianogoes/uaicontacts
 
 
 
